@@ -1,4 +1,4 @@
-# 📁 Youdownneb (Custom YouTube Downloader)
+# 📁 YouDowNneb (Custom YouTube Downloader)
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Batch Script](https://img.shields.io/badge/Batch_Script-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
